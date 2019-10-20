@@ -3,6 +3,7 @@
   "private": false,
   "description": "satellite data sourced from The Satellite Situation Center Web API",
   "version": "0.1.0",
+  "main": "gatsby-node.js",
   "license": "MIT",
   "scripts": {
     "format": "prettier --write \"**/*.{js,jsx,json,md}\""
