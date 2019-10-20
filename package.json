@@ -2,7 +2,7 @@
   "name": "nasa-satellite-source",
   "private": false,
   "description": "satellite data sourced from The Satellite Situation Center Web API",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "gatsby-node.js",
   "license": "MIT",
   "scripts": {
