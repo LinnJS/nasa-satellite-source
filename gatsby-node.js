@@ -1,3 +1,5 @@
+const axios = require("axios")
+
 // Exports as sourceNodes for gatsby to store in GraphQL
 exports.sourceNodes = async ({
   actions,
